@@ -3,6 +3,8 @@
 // @namespace    https://ferrisfox.me
 // @copyright    Mozilla Public License 2.0
 // @version      0.1
+// @updateURL    https://github.com/ferrisfox/UniSA-QOL/raw/main/QOL%20tweaks%20for%20UniSA%20portal.user.js
+// @downloadURL  https://github.com/ferrisfox/UniSA-QOL/raw/main/QOL%20tweaks%20for%20UniSA%20portal.user.js
 // @description  QOL tweaks to UniSA student portal
 // @author       Ferrisfox
 // @homepage     https://my.unisa.edu.au/Student/myEnrolment/myEnrolment/TimetableCalendar.aspx
